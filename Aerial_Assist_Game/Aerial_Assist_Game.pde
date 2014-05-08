@@ -23,6 +23,16 @@
     background(255);
     player.display();
     player.drive();
+    red1.display();
+    red1.drive();
+    red2.display();
+    red2.drive();
+    blue1.display();
+    blue1.drive();
+    blue2.display();
+    blue2.drive();
+    blue3.display();
+    blue3.drive();
     fill(255);
     stroke(0);
     rectMode(CENTER);

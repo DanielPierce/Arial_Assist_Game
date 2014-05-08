@@ -18,7 +18,7 @@ class Robot
   {
     //Initialize Variables in Here and set to parameters
     botX = 540;
-    botY= 250;
+    botY= 250;}
     botangleR = 0;
     botleng = leng;
     botwid = wid;
